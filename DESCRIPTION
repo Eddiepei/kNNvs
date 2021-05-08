@@ -1,0 +1,11 @@
+Package: kNNvs
+Type: Package
+Title: kNN with grid search variable selection
+Version: 0.1.0
+Author: Eddie Pei and Ernest Fokoué
+Maintainer: Eddie Pei <ep2667@rit.edu>
+Description: kNN with variable selection, combine grid search and foward selection to achieve variable selection in order to improve kNN.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
